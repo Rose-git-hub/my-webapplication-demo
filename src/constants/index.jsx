@@ -129,7 +129,7 @@ export const features = [
       id: "1",
       title: "Overdrive",
       priceMonthly: 79,
-      priceYearly: 49,
+      priceYearly: 59,
       caption: "Most popular plan",
       features: [
         "All Starter features",
@@ -144,7 +144,7 @@ export const features = [
       id: "2",
       title: "Team",
       priceMonthly: 45,
-      priceYearly: 29,
+      priceYearly: 35,
       caption: "Exclusively for teams",
       features: [
         "All Overdrive features",
